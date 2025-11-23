@@ -1,5 +1,7 @@
 # 🎬 Full Stack Movie App
 
+APK: Go to the folder android > app > build > outputs > apk > release > app-release.apk
+
 A modern and responsive **Full Stack Movie Application** built using **React Native** for the frontend and integrated with the **TMDB (The Movie Database) API** as the backend.
 This app allows users to explore popular, trending, and top-rated movies with rich details fetched in real time.
 
